@@ -113,21 +113,24 @@ Front end looks like this:
 ![npm run dev](images/Product_details.png)
 
 
+Breeded - 0x40d2d4de129cef347f653e14f7dda36ac901fee01f7a2b477c0646f9588ab1ec
+Processed - 0xb1958b36a25455eaaa12bac19db3525c9974f05ec75d26a36fbedd4d3504140a
+Packed - 0x49cf345f4ca6d3f66a38830b97033a89a0460448808d70d2d62536f1897cfb2e
+ForSale - 0x5ef7a5404713a9cf4b5a37d4ccf738af7f3b8658e7048b25222931be346e2378
+Sold - 0x5a7541a4cf62067765a835be1de3d24948ae219ae2dc3652fd18062b8744bde2
+Shipped - 0xcf5330f9acab3ccaeed40c40715e3e3693edf45f75cf16e9b0415672f87a57e0
+Received - 0x7a96d8256c83492fb3f5beeb76adb8f518f172eaaab7d6bd0f213ab354de91c9
+Purchased - 0x64c8bcabba5c78b9b42f52918116400809403f6ef27fb1ed567bfba58c40f387
+
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
-* [IPFS](https://ipfs.io/) - IPFS is the Distributed Web | A peer-to-peer hypermedia protocol
-to make the web faster, safer, and more open.
+
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
 
-
-## Authors
-
-See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
 
 ## Acknowledgments
 
 * Solidity
 * Ganache-cli
 * Truffle
-* IPFS
