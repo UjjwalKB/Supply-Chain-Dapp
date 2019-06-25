@@ -1,6 +1,7 @@
 var HDWalletProvider = require('truffle-hdwallet-provider');
 var mnemonic = 'spirit supply whale amount human item harsh scare congress discover talent hamster';
-
+// Provide your endpoint url
+var endPointUrl = '';
 
 module.exports = {
   networks: {
@@ -11,7 +12,7 @@ module.exports = {
     },
     rinkeby: {
       provider: function() {
-        return new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/f6b3d56706274b56a32307e894577d88`)
+        return new HDWalletProvider(mnemonic, endPointUrl)
       },
         network_id: 4,       // rinkeby's id
         gas: 4500000,        // rinkeby has a lower block limit than mainnet
