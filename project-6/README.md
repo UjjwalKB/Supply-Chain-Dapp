@@ -31,6 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
+Modify the truffle.js file and provide and endpoint URL value as mentioned on the third line of the file.
 
 
 ### Installing
