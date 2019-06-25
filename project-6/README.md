@@ -104,6 +104,15 @@ npm run dev
 Your terminal should look something like this:
 ![npm run dev](images/npm_run_dev.png)
 
+
+Front end looks like this:
+![npm run dev](images/Product.png)
+
+![npm run dev](images/Farm_details.png.png)
+
+![npm run dev](images/Product_details.png)
+
+
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
