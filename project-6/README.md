@@ -88,6 +88,13 @@ All 11 tests should pass.
 
 ![truffle test](images/truffle_test.png)
 
+To deploy the contract on Rinkeby Test network, use the following command
+
+```
+truffle migrate --reset --network rinkeby
+```
+Contract deployed at: https://rinkeby.etherscan.io/tx/0x377ccae36f3fbe49a72670bce26436039e80817c3b7980977fc8742dc8416abe
+
 In a separate terminal window, launch the DApp:
 
 ```
