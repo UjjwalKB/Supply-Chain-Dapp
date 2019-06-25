@@ -108,7 +108,7 @@ Your terminal should look something like this:
 Front end looks like this:
 ![npm run dev](images/Product.png)
 
-![npm run dev](images/Farm_details.png.png)
+![npm run dev](images/Farm_details.png)
 
 ![npm run dev](images/Product_details.png)
 
