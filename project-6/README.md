@@ -20,7 +20,7 @@ These UML diagrams represent and depict how the supply chain works and what role
 
 ### Classes diagram
 
-![Classes diagram](images/Class_Diagram.png)
+![Classes diagram](images/Class_Diagram.PNG)
 
 
 
